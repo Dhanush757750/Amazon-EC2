@@ -2,8 +2,8 @@
 
 ## Author
 
-* **Name**: DHANUSH C
-* **Register Number**: 212224040066
+* **Name**: Shanmuga Vasanth M
+* **Register Number**: 212223040191
 
 ## Objective
 
@@ -110,7 +110,8 @@ This ensures controlled and secure communication with the instance.
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/182334957/564697068-bffca923-9175-4633-bdcc-6a2a002c32a5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260601T115928Z&X-Amz-Expires=300&X-Amz-Signature=79d197461adb0ff650ac40bfd13ec1d260956dbf0eb61aff0cb43f90fdc9b838&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng
+<img width="1902" height="911" alt="Screenshot 2026-02-24 111106" src="https://github.com/user-attachments/assets/bffca923-9175-4633-bdcc-6a2a002c32a5" />
+
 
 
 ### Screenshot 2: SSH Connection to Instance
